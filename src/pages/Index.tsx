@@ -69,7 +69,7 @@ export default function Index() {
               <Link to="/gallery/">View Our Work</Link>
             </Button>
           </div>
-          <TrustBar variant="dark" className="animate-fade-in-up" style={{ animationDelay: "0.4s" } as any} />
+          <TrustBar variant="dark" className="animate-fade-in-up" />
         </div>
 
         {/* Scroll indicator */}
